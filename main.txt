@@ -1,2 +1,2 @@
-Title: Git for Everyone
+Title: Git for Everyone to DoubleS
 Subtitle: Hello how are you
